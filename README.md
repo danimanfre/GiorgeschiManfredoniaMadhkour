@@ -1,4 +1,4 @@
-# GiorgeschiManfredoniaMadhkour
+# SE2 RASD and DD
 ## Software Engineering 2 Project, Politecnico di Milano (A.Y. 2022/23)
 The objective of this project is to apply in practice what we have learnt during lectures with the purpose of becoming familiar with software engineering practices and be able to address new software engineering issues in a rigorous way. The project includes two assignments:
 * The preparation of a Requirement Analysis and Specification Document (RASD) for the problem provided.
